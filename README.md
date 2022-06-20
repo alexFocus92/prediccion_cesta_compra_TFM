@@ -1,6 +1,7 @@
 # Instacart Market Basket Analysis
 Analisis de la cesta de la compra de los usuarios de un supermercado canadiense
 
+![image](https://user-images.githubusercontent.com/52139366/174676025-b17432be-7a44-4e63-9fa7-ccce43600e29.png)
 
 Para ejecutar este código es necesario descargar los datos antes de Kaggle, dejo el enlace a continuación:
 https://www.kaggle.com/c/instacart-market-basket-analysis/data
@@ -20,6 +21,8 @@ operaciones y servicios en los Estados Unidos. En noviembre de 2017, la compañ�
 para comenzar la entrega en Toronto y Vancouver.
 
 ## Objetivo
+
+![image](https://user-images.githubusercontent.com/52139366/174676064-9bb8b331-98fb-41b2-a191-e0b9a5e56113.png)
 
 Se trata de un conjunto relacional de archivos que describen las órdenes de los clientes a lo largo del
 tiempo.
